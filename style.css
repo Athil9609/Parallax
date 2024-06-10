@@ -1,0 +1,417 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Major+Mono+Display&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Wix+Madefor+Display:wght@400..800&display=swap');
+
+*{
+}
+.porsche {
+    width: 100%;
+    height: 850px;
+    background-image: url("./images/992.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.navv {
+    float: left;
+}
+
+.icon {
+    margin-left: 80px;
+    margin-top: 30px;
+    font-size: larger;
+}
+
+.menu {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 400;
+    margin-top: 28px;
+    margin-left: 7px;
+    font-size: 17px;
+    color: white;
+}
+
+.text_logo {
+    width: 30%;
+    height: 30%;
+    margin-left: 460px;
+    margin-top: -100px;
+}
+
+.porschelogo {
+    width: 200px;
+    height: 200px;
+    margin-top: 150px;
+    margin-left: 43%;
+    opacity: 0.8;
+}
+
+.link1 {
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    margin-left: 650px;
+    background-color: rgba(94, 94, 94, 0.642);
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 400;
+
+}
+
+.b {
+    margin-top: 100px;
+}
+
+.porschelogo2 {
+    width: 150px;
+    height: 30px;
+    margin-top: 10px;
+
+    margin-left: 40px;
+    /* opacity: 0.7; */
+}
+
+#i1 {
+    padding-left: 44%;
+    padding-top: 110px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 70px;
+    color: rgba(74, 65, 54, 0.563);
+
+}
+
+.p1 {
+    background-color: rgba(182, 182, 182, 0.2);
+    width: 100%;
+    height: 40px;
+    margin-top: -22px;
+}
+
+#i2 {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    padding-left: 47%;
+
+    color: rgb(255, 100, 100);
+}
+
+p {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Red Hat Display", sans-serif;
+    font-weight: normal;
+    color: rgb(54, 54, 54);
+}
+
+.span1 {
+    color: rgb(152, 60, 60);
+    font-weight: 900;
+    font-size: larger;
+}
+
+.p2 {
+    width: 100%;
+    height: 600px;
+    background-image: url("./images/918.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    float: left;
+}
+
+#ul1 {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: normal;
+}
+
+.spyder {
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    margin-top: 80px;
+    margin-left: 40px;
+    background-color: rgba(255, 255, 255, 0.304);
+}
+
+.build {
+    border: 1px solid white;
+    border-radius: 2px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+    text-decoration: none;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: normal;
+}
+
+.allmodel {
+    border: 1px solid white;
+    border-radius: 2px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(54, 54, 54, 0.515);
+    padding: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+    text-decoration: none;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: normal;
+
+}
+
+.spy1 {
+    margin-top: 180px;
+    margin-left: 40px;
+}
+
+.spy2 {
+    margin-left: 300px;
+    margin-top: -20px;
+}
+
+.spyderp {
+    width: 100%;
+    height: 300px;
+    margin-left: 20px;
+    /* margin-top: 20px; */
+
+
+
+}
+
+.c {
+    font-family: "Wix Madefor Display", sans-serif;
+    /* margin-left: 0px; */
+    padding-right: 40px;
+    margin-top: -40px;
+    padding-bottom: 20px;
+}
+
+.i4 {
+    margin-left: 20px;
+    font-family: "Bebas Neue", sans-serif;
+    color: rgb(255, 100, 100);
+    margin-top: -10px;
+}
+
+.diva {
+    background-color: rgba(182, 182, 182, 0.2);
+}
+.spyderr
+{
+    color:rgb(255, 100, 100) ;
+    font-weight: 600;
+}
+.gt4rs
+{
+    margin-top: -16px;
+    padding-top: 100px;
+    width: 100%;
+    height: 500px;
+    background-image: url("./images/gt4rs.webp");
+    background-size: cover;
+    background-attachment: fixed;
+    /* background-blend-mode: multiply; */
+}
+.gt4logo
+{
+    width: 170px;
+    height: 40px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.gt4{
+    
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    
+    margin-left: 40px;
+    background-color: rgba(204, 204, 204, 0.548);}
+    .gt4rsp
+    {
+        background-color: rgba(204, 204, 204, 0.548);
+        padding-bottom: 20px;
+    }
+    .cayanne
+    {
+        width: 100%;
+        height: 600px;
+        background-image: url("./images/caynne.avif");
+        background-attachment: fixed;
+        background-size: cover;
+        padding-top: 100px;
+    }
+    .cayanne_spec
+    {
+        width: 300px;
+        height: 250px;
+        border-radius: 10px;
+    
+        margin-left: 40px;
+        background-color: rgba(204, 204, 204, 0.548);
+    }
+    .cayennelogo
+    {
+        width: 170px;
+        height: 170px;
+        margin-left: 60px;
+        margin-top: -40px;
+    }
+    .ul3
+    {
+        margin-top: -40px;
+    }
+    .spy3{
+        margin-left: 20px;
+        margin-top: 180px;
+    margin-left: 40px;
+    }
+    .spy4
+    {
+        margin-left: 270px;
+        margin-top: -20px;
+    }
+    .build1 {
+        border: 1px solid white;
+        border-radius: 2px;
+        color: rgb(0, 0, 0);
+        background-color: rgb(255, 255, 255);
+        padding: 10px;
+        padding-left: 60px;
+        padding-right: 60px;
+        text-decoration: none;
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: normal;
+    }
+    
+    .allmodel2 {
+        border: 1px solid white;
+        border-radius: 2px;
+        color: rgb(255, 255, 255);
+        background-color: rgba(54, 54, 54, 0.515);
+        padding: 10px;
+        padding-left: 60px;
+        padding-right: 60px;
+        text-decoration: none;
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: normal;
+    
+    }
+    .spy5{
+        margin-left: 20px;
+        margin-top: 180px;
+    margin-left: 40px;
+    }
+    .spy6
+    {
+        margin-left: 285px;
+        margin-top: -20px;
+    }
+    .cayannedetail
+    {
+        background-color: rgba(204, 204, 204, 0.548);
+        padding-bottom: 20px;
+
+    
+    }
+    .footer
+    {
+        width: 100%;
+        height: 350px;
+        background-color: white;
+        margin-top: 20px;
+        
+    }
+    .f
+    {
+        
+        
+        float: left;
+        
+
+
+    }
+    .g
+    {
+        padding-left
+        : 100px; 
+    }
+    .d{
+        
+        padding-left: 200px;
+        
+           
+    }
+    .foot1
+    {
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: normal;
+        font-size: 20px;
+    }
+    .foot2{
+        font-size:15px ;
+        padding-top: 30px;
+    }
+    .footerrfinal
+    {
+        width: 100%;
+        height: 500px;
+        font-family: "Titillium Web", sans-serif;
+        font-weight:300;
+        color: white;
+        background-color: rgb(24, 24, 24);
+        
+    }
+    
+
+    .fp
+    {
+        
+        padding-top: 10px;
+       
+    }
+#s1
+{
+    width: 300px;
+    height: 50px;
+    color: white;
+    background-color: rgba(42, 42, 42, 0.647);
+    text-align: center;
+    box-shadow: 1px 1px 5px rgba(44, 44, 44, 0.647);
+    border: 0.5px;
+    margin-top: -10px;
+    margin-left: 60px;
+}
+    #s2{
+        width: 300px;
+    height: 50px;
+    color: white;
+    background-color: rgba(42, 42, 42, 0.647);
+    text-align: center;
+    box-shadow: 1px 1px 5px rgba(44, 44, 44, 0.647);
+    border: 0.5px;
+    margin-left: 7px;
+    margin-top: -10px;
+
+}
+hr{
+    margin-left: 60px;
+    margin-right: 60px;
+    border:rgba(44, 44, 44, 0.647);    
+}
+.k{
+    color: white;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.j
+{
+    color: white;
+}
